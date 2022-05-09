@@ -1,0 +1,39 @@
+Control flow statements: evaluate to true or false
+- if statements
+- loops
+
+Relational operators: < > == >= <= !=
+- boolean expression: x < 5
+
+Errors
+- syntax: code fails before the program is run
+- logical: code doesn't act as the user expects
+
+Debugger
+- breakpoint: halts the program to inspect its internal state
+- step in: go into next method and continue debugging step by step
+- step over: execute next method as one entire step
+- step return: breaks out of step by step debugging and returns as one entire step
+- resume: back to normal debugging instead of step by step
+
+Functions
+- series of steps to accomplish a task
+- called methods in Java (and object-oriented programming)
+- return types
+- dot operator: access provider for function, class, or instance of a class
+
+Classes
+- user defined blueprint of attributes/properties and behaviors/methods
+- instance: object created from a class
+- constructor: initializes instances of a class
+  - "new" keyword
+- this becomes a new data type
+- instance methods require an instance of a class to run
+  - static/class methods do not require an instance
+- instance variables are tied to an instance of a class
+  - static variables are the same for the entire class (aka every instance)
+
+IntelliJ shortcuts
+- sout = System.out.println();
+- ALT+J = select next instance
+- CTRL+ALT+L = fix formatting
